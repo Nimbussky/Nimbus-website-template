@@ -1,0 +1,20 @@
+{
+  "_comment": "Reference only — the live source of truth is the :root block at the top of css/styles.css. This file documents the same tokens so a future automated agent (or you) can generate a client reskin programmatically.",
+  "brandName": "Nimbus Studio",
+  "colors": {
+    "void": "#0a0c10",
+    "surface": "#12151b",
+    "metal100": "#e7eaf0",
+    "metal400": "#aab1bf",
+    "metal700": "#5b6270",
+    "accent": "#ffb454",
+    "text": "#f2f3f6"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "logoMark": "css-gradient-square (replace .brand-mark in styles.css with an <img> if the client has a logo file)",
+  "contactEmail": "hello@yourdomain.com"
+}
